@@ -1,6 +1,6 @@
 module https://github.com/jonatansotoimio/golang
 
-go 1.13
+go 1.12
 
 require(
 
